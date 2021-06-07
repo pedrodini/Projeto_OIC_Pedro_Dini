@@ -14,7 +14,7 @@ Como parte da simulação, os seguintes processos estão sendo contemplados:
 Com a realização do experimento, temos um maior controle do ambiente da cozinha e automatização de processos manuais como o acendimento de luzes e abertura e fechamento de janelas. 
 
 A montagem final deste projeto foi: 
-
+![Circuito-montado](https://user-images.githubusercontent.com/64094060/120958743-b724d700-c72e-11eb-8b1a-199c20fa4ce9.jpeg)
 
 # Componentes Utilizados 
  - 1 Placa NodeMCU ESP8266 WI-FI
