@@ -36,6 +36,8 @@ Para realização da simulação virtual do circuito elaborado, foi utilizada a 
 
 ![Circuito-PedroDini](https://user-images.githubusercontent.com/64094060/120958356-f1da3f80-c72d-11eb-8058-28d1c4c5eb2f.PNG)
 
+* No circuito acima, foi utilizado o DHT22 e no protótipo real o DHT11. Essa mudança não impacta em nada o funcionamento de ambos os circuitos uma vez que a diferença entre eles está nessa "perna" a mais que o DHT22 tem, mas que é apenas ligado à um resistor que retorna para a porta lógica novamente. Ou seja o formato dos dois sensores são identicos (1 entrada lógica, 1 GND e 1 VCC). 
+
 
 
 
