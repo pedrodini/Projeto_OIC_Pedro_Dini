@@ -34,6 +34,9 @@ A montagem final deste projeto foi:
 
 Para realização da simulação virtual do circuito elaborado, foi utilizada a plataforma Circuits.io 
 
+![Circuito-PedroDini](https://user-images.githubusercontent.com/64094060/120958356-f1da3f80-c72d-11eb-8058-28d1c4c5eb2f.PNG)
+
+
 
 
 
