@@ -1,5 +1,14 @@
 # AUTOMAÇÃO RESIDENCIAL - COZINHA 
 
+# Informações do Autor 
+
+Universidade Presbiteriana Mackenzie 
+Nome: Pedro Victor Dini 
+TIA: 31857345 
+Disciplina: Objetos Inteligentes Conectados 
+Profº: DR. Wilian Franca Costa 
+Turma: 05K 
+
 # Descrição do Projeto 
 
 O Projeto desenvolvido tem como objetivo criar uma simulação de automação residencial (Domótica) precisamente o ambiente da cozinha. Diarimente somos confrontados com a mudança e evolução da tecnologia tornando-a parte indispensável do nosso convívio. Dessa maneira, neste projeto escolhi o ambiente da cozinha para que alguns processos possam ser autimatizados e controlados remotamente utilizando o protocolo MQTT. 
@@ -71,3 +80,14 @@ O MQTT Dash é um aplicativo Mobile Android, no qual assim como o MQTTBox é pos
  - Botão de ligar e desligar a Luz  (Switch) 
 
 ![MQTT Dash](https://user-images.githubusercontent.com/64094060/120960510-61eac480-c732-11eb-97dd-2e436da51520.jpeg)
+
+
+# Resultados Finais 
+
+Após a conclusão tanto da montagem como do desenvolvimento do código, posso garantir o funcionamento correto do circuito. A Comunicação via protocolo MQTT de igual forma foi realizado com sucesso, nos mostrando que pode ser uma forma aliada nos desenvolvimentos em IoT, garantindo a execução rápida, eficaz e segura. 
+
+
+
+
+
+
