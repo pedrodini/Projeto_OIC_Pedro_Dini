@@ -2,12 +2,12 @@
 
 # Informações do Autor 
 
-Universidade Presbiteriana Mackenzie 
-Nome: Pedro Victor Dini 
-TIA: 31857345 
-Disciplina: Objetos Inteligentes Conectados 
-Profº: DR. Wilian Franca Costa 
-Turma: 05K 
+* Universidade Presbiteriana Mackenzie 
+* Nome: Pedro Victor Dini 
+* TIA: 31857345 
+* Disciplina: Objetos Inteligentes Conectados 
+* Profº: DR. Wilian Franca Costa 
+* Turma: 05K 
 
 # Descrição do Projeto 
 
