@@ -58,6 +58,8 @@ Com o intuito de comprovar a eficácia do desenvolvimento realizado e comprovar 
 **MQTTBox**
 O MQTTBox é uma extensão do Google Chrome, capaz de acompanhar em tempo real as ações do _publisher_ e do _subscriber_ que foram configuradas no broker (broker.mqtt-dashboard.com.) 
 
+![MQTTBox - Pedro](https://user-images.githubusercontent.com/64094060/120960508-5f886a80-c732-11eb-8b9b-bb150e0d02d1.PNG)
+
 
 **MQTT Dash**
 O MQTT Dash é um aplicativo Mobile Android, no qual assim como o MQTTBox é possível ser feito o acompanhamento em tempo real dos tópicos do dispositivo elaborado. Porém adicionamente, possui funções interativas. No caso do meu projeto, adicionei 6 itens na tela inicial sendo: 
@@ -68,11 +70,4 @@ O MQTT Dash é um aplicativo Mobile Android, no qual assim como o MQTTBox é pos
  - Status textual da Luz de emergência (Ligada ou Desligada) 
  - Botão de ligar e desligar a Luz  (Switch) 
 
-
-
-
-
-
-
-
-
+![MQTT Dash](https://user-images.githubusercontent.com/64094060/120960510-61eac480-c732-11eb-97dd-2e436da51520.jpeg)
